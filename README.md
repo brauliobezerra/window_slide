@@ -21,7 +21,7 @@ where:
 
 ## Examples
 
-> ./window_slide.rb 'Finances.ods' 0,0,1920,800 'xdg-open ~/finances.ods'
+> ./window_slide.rb 'Finances.ods' 0,0,1920,800 'xdg-open ~/Finances.ods'
 
 > ./window_slide.rb 'Example Domain' 100,100,500,500 'firefox --new-window http://example.com/'
 
