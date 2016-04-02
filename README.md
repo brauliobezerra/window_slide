@@ -17,7 +17,7 @@ To be used inside a global shortcut like F12 or Win+J.
 where:
 
 * __title__: unique title of window, or part of it;
-* __command__: = command to execute if the window doesn't exist yet.
+* __command__: command to execute if the window doesn't exist yet.
 
 ## Examples
 
