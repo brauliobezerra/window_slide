@@ -1,6 +1,6 @@
 # window_slide.rb
 
-Script which shows/hides a windows the same way done in Guake Terminal.
+Script which shows/hides a window the same way done in Guake Terminal.
 
 To be used inside a global shortcut like F12 or Win+J.
 
