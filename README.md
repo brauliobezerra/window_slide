@@ -1,6 +1,6 @@
 # window_slide.rb
 
-Script which shows/hides a window the same way done in Guake Terminal.
+Script which shows/hides a specific window (like it is done in Guake Terminal).
 
 To be used inside a global shortcut like F12 or Win+J.
 
@@ -8,7 +8,7 @@ To be used inside a global shortcut like F12 or Win+J.
 
 * xdotool
 * wmctrl
-* ruby (_I hate bash confusing syntax_)
+* ruby (_I hate bash's confusing syntax_)
 
 ## Using
 
@@ -24,4 +24,3 @@ where:
 > ./window_slide.rb 'Finances.ods' 0,0,1920,800 'xdg-open ~/Finances.ods'
 
 > ./window_slide.rb 'Example Domain' 100,100,500,500 'firefox --new-window http://example.com/'
-
